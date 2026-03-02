@@ -1,6 +1,6 @@
-# FIXTEC - Plataforma de Gestión de Reparaciones 📱
+# Cellphone_repair - Plataforma de Gestión de Reparaciones 📱
 
-**FIXTEC** es una aplicación web moderna construida con **React** diseñada para centralizar y optimizar la gestión de talleres de reparación técnica. La plataforma permite administrar servicios, órdenes de trabajo y cuentas de usuario de manera eficiente.
+**Cellphone_repair** es una aplicación web moderna construida con **React** diseñada para centralizar y optimizar la gestión de talleres de reparación técnica. La plataforma permite administrar servicios, órdenes de trabajo y cuentas de usuario de manera eficiente.
 
 ---
 
@@ -47,11 +47,11 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
       Clonar el repositorio:
       
       Bash
-      git clone [https://github.com/tuusuario/fixtec-platform.git](https://github.com/tuusuario/fixtec-platform.git)
+      git clone https://github.com/JannelyB/Cellphone_repair-blackboxai.git
       Navegar al directorio:
       
       Bash
-      cd fixtec-platform
+      cd Cellphone_repair
       Instalar dependencias:
       
       Bash
